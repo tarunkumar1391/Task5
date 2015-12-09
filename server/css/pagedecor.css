@@ -1,0 +1,71 @@
+.req {color: #FF0000;}
+.jumbotron.custom {
+    background-color: white;
+    max-height: 20%;
+    border-bottom-style: solid;
+    border-bottom-width: thin;
+    border-bottom-color: black;
+    padding: 0%;
+}
+.logo{
+    width: 180px;
+    height: 70px;
+    float: left;
+    padding-left: 1%;
+}
+.header_text{
+    float: left;
+}
+.intro{
+    padding-top: 0%;
+    margin: 0%;
+}
+.span12{
+    border-bottom-style: solid;
+    border-bottom-width: thin;
+    border-bottom-color: black;
+    margin-bottom: 1%;
+}
+form{
+    padding-left: 1%;
+
+
+}
+.span5{
+    border-bottom-style: solid;
+    border-bottom-width: thin;
+    border-bottom-color: black;
+    margin-bottom: 1%;
+    width: 30%;
+}
+.span6{
+    width:100%;
+}
+.table.custom {
+    width: 90%;
+    margin-left: 5%;
+}
+.table.custom2 {
+    width: 50%;
+    margin-left: 5%;
+}
+input[type=number] {-moz-appearance: textfield;}
+
+::-webkit-inner-spin-button { -webkit-appearance: none;}
+::-webkit-outer-spin-button { -webkit-appearance: none;}
+
+.thankubg{
+    background-image: url("../images/thankyouwithouttxt.png");
+    background-repeat: no-repeat;
+    width: 750px;
+    height: 600px;
+    background-position: 30% 20%;;
+
+
+}
+.col-sm-10.customthnks{
+    padding-top: 20%;
+}
+.addrspl{
+    background-color: #9acfea;
+}
