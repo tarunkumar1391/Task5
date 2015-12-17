@@ -620,7 +620,7 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
 //Username to use for SMTP authentication - use full email address for gmail
     $mail->Username = "tarunkumar0191@gmail.com";
 //Password to use for SMTP authentication
-    $mail->Password = "tarun_1391";
+    $mail->Password = "REMOVED";
 //Set who the message is to be sent from
     $mail->setFrom('tarunkumar0191@gmail.com', 'Tarun Kumar');  //from HRZ address
 //Set an alternative reply-to address

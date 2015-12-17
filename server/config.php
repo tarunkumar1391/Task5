@@ -3,7 +3,7 @@
 // DB credentials
 $servername = "localhost";
 $username = "root";
-$password = "tarun1391";
+$password = "REMOVED";
 $dbname = "clusterform";
 
 $path = '/srv/projektantrag-tmpdir';
